@@ -1,0 +1,39 @@
+<!--
+Date: Feb 9, 2025
+Edited: Feb 9, 2025
+About: Subpage for Apple's Website.
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+	  <title>I have the High Ground :)</title>
+		<link rel="icon" href="./pics for high/favicon.png">
+  </head>
+
+  <body style="background-color:black;">
+  <div style="text-align: center">
+
+    <h1 style="color:orange;">"The High Ground"</h1>
+    <audio controls>
+	    <source src="./S/09 Anakin Vs. Obi-Wan.mp3">
+	    Your browser sucks and does not support the audio for this website!!!
+    </audio>
+ 
+	  <h2 style="color:Red;">Press play to listen to music</h2>
+
+	  <p style="color:orange;">"It's over Anakin, I have the High Ground" </p>	
+		<img src=" .\pics for high\obi.gif" alt="Obi">	
+
+	  <p style="color:Red;">"You underestimate my power!"</p>
+		<img src=" .\pics for high\ana.gif" alt="Ana">
+
+	  <p style="color:orange;">"Don't try it."</p>
+		<img src=" .\pics for high\dont.gif" alt="Don't"> </p>
+
+	  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t" style="color:Red;">Next Page</p>
+  </body>
+  <footer style="color: red; text-align: center;">
+    <a href="https://mrapple1661.github.io/Apple/" style="color:orange;">Home</p>
+    <p>More Coming Soon!</p>
+  </footer>
