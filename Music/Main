@@ -1,0 +1,24 @@
+<!--
+Date: Feb 15, 2025
+Edited: Feb 15, 2025
+About: Index for Apple's Fav Songs.
+-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Songs</title>
+		<link rel="icon" href="./favicon.png">
+	</head>
+
+	<body style="background-color:black;">
+		<div style="text-align: center">
+
+		<h1 style="color:white;">Apple's Fav Songs</h1>
+		<p></p>
+		<a href="./Linkin Park/Linkin Park.html", style="color:white;">Linkin Park</a>
+		<p></p>
+		<a href="./Linkin Park/Linkin Park.html",  style="color:white;"><img src="./Linkin Park/Linkin Park.jpg" alt="Linkin Park Band" width="750" height="400">
+    	<p></p>
+    	<a href="../index.html" style="color:white;">Check out these other websites!</p>
+	</body>
+</html>
