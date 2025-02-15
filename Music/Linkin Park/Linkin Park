@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	<title>Linkin Park</title>
+	<link rel="icon" href="./favicon.png">
+ </head>
+
+ <body style="background-color:grey;">
+  <div style="text-align: center">
+
+  <h1 style="color:white;">Apple's Fav Songs</h1>
+	<p></p>
+  <a href="..\Main.html" style="color:white;">Home</a>
+	<p></p>
+  <h2 style="color:white;">Linkin Park</h2>
+	<p></p>
+    
+  <a href="./HybridTheory/Linkin Park Hybrid.html",  style="color:white;"><img src="./HybridTheory/Cover.jpg" alt="Hybrid Theory Cover" width="300" height="300">
+	
+  <p></p>
+  <a href="./HybridTheory/Linkin Park Hybrid.html" style="color:white;">Hybrid Theory</a>
+	<p></p>
+
+  <a href="./Meteora/Linkin Park Meteora.html",  style="color:white;"><img src="./Meteora/Cover.jpg" alt="Meteora Cover" width="300" height="300">
+	
+  <p></p>
+  <a href="./HybridTheory/Linkin Park Meteora.html" style="color:white;">Meteora</a>
+	<p></p>
+	
+  <a href="./MinutestoMidnight/Linkin Park Minutes.html",  style="color:white;"><img src="./MinutestoMidnight/Cover.jpg" alt="Minutes to Midnight Cover" width="300" height="300">
+	
+  <p></p>
+  <a href="./MinutestoMidnight/Linkin Park Minutes.html" style="color:white;">Minutes to Midnight</a>
+	<p></p>
+
+  <a href="./Suns/Linkin Park Suns.html",  style="color:white;"><img src="./Suns/Cover.jpg" alt="A Thousand Suns Cover" width="300" height="300">
+	
+  <p></p>
+  <a href="./Suns/Linkin Park Suns.html" style="color:white;">A Thousand Suns</a>
+	<p></p>
+
+  <a href="./Living/Linkin Park Living.html",  style="color:white;"><img src="./Living/Cover.jpg" alt="LIVING THINGS Cover" width="300" height="300">
+	
+  <p></p>
+  <a href="./Suns/Linkin Park Suns.html" style="color:white;">A Thousand Suns</a>
+	<p></p>
+
+ </body>
+</html>
